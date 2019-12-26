@@ -1,0 +1,17 @@
+.otab .el-tabs__nav{width: 100%;}
+.otab .el-tabs__nav-wrap{margin-bottom: -2px;}
+.otab .el-tabs__item{height: 56px;line-height: 56px;}
+.otab.el-tabs--border-card>.el-tabs__content{padding: 0 15px;}
+.otab.el-tabs--border-card>.el-tabs__header .el-tabs__item{width: 20%;text-align: center;font-size: 15px;}
+.otab.el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active{color: #FF2B44;font-weight: bold;}
+.otab.el-tabs--border-card>.el-tabs__header .el-tabs__item:not(.is-disabled):hover{color: #FF2B44;}
+.otable.el-table td, .otable.el-table th{text-align: center;}
+.otable.el-table th>.cell{color: #242424;}
+.otable .el-table__fixed-right::before, .el-table__fixed::before{height: 0;}
+
+.goods{font-size: 14px;}
+.goods .el-card__header{padding: 15px 20px;color: #FF2B44;font-weight: bold;font-size: 15px;}
+.gtab .el-tabs__item{color: #909399;}
+.gtab .el-tabs__item.is-active{color: #FF2B44;font-weight: bold;}
+.gtab .el-tabs__item:hover{color: #FF2B44;}
+.gtab .el-tabs__active-bar{background: #FF2B44;}
